@@ -71,7 +71,7 @@ And if you want to use `unordered-dense` or some other package:
         {
             "kind": "git",
             "repository": "https://github.com/MrowrLib/Packages.git",
-            "baseline": "TODO",
+            "baseline": "9ee1e35202e5e551d8d1824d5b306c04166be3b5",
             "packages": ["mrowr-collections"]
         }
     ]
